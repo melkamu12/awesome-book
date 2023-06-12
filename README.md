@@ -159,6 +159,6 @@ If you like this project clone on your project working space
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT License 2.0) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
