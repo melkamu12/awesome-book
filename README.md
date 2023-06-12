@@ -118,6 +118,11 @@ Example command:
 
 - GitHub: [@melkamu12](https://github.com/melkamu12)
 - LinkedIn: [melkamu-almawu](https://www.linkedin.com/in/melkamu-almawu/)
+## :busts_in_silhouette: Collabrations <a name="collabrationns"></a>
+
+:bust_in_silhouette: **Tajul Afreen**
+
+-   GitHub: [@tajulafreen](https://github.com/tajulafreen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
