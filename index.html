@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <title>Awesome Books</title>
+  </head>
+  <body>
+    <header>
+      <h2>Awesome Books</h2>
+      <ul class="nav-link-list">
+        <li class="nav-item">
+          <a href="#books" class="nav-link" id="list-link">List</a>
+        </li>
+        <li class="nav-item">
+          <a href="#add-books" class="nav-link" id="add-new-link">Add new</a>
+        </li>
+        <li class="nav-item">
+          <a href="#contact-us" class="nav-link" id="contact-link">Contact</a>
+        </li>
+      </ul>
+    </header>
+    <p id="time"></p>
+    <div class="content">
+      <section id="books">
+        <h1>All Awesome Books</h1>
+        <ul id="book-list"></ul>
+      </section>
+      <section class="add-books" id="add-books">
+        <h1>Add a new Book</h1>
+        <form action="">
+          <div>
+            <input
+              type="text"
+              name="title"
+              id="book-title"
+              placeholder="title"
+            />
+            <input
+              type="text"
+              name="author"
+              id="book-author"
+              placeholder="author"
+            />
+          </div>
+          <button type="submit" id="addBtn">Add</button>
+        </form>
+      </section>
+      <section class="contact-us" id="contact-us">
+        <h1>Contact Us</h1>
+        <p>
+          Do you have any questions or you just want to say "Hello" ? You can
+          reach out of us!
+        </p>
+        <ul class="contact-list">
+          <li>Our e-mail : example@gmail.com</li>
+          <li>Our phone number : 123456789</li>
+          <li>Our address : Streetname 22, 84503 city, Country</li>
+        </ul>
+      </section>
+    </div>
+    <footer>
+      <div class="footer">
+        <p>Copyright ...</p>
+      </div>
+    </footer>
+    <script src="./index.js" type="module"></script>
+  </body>
+</html>
